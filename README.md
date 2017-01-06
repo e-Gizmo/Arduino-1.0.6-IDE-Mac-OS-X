@@ -21,20 +21,24 @@ Important notes:
  -------
  ![how to download](http://i.makeagif.com/media/6-21-2016/_xYx6X.gif)
  
-3. ** Copy the whole 'gizduino-' folder found inside the Windows version of the Arduino package (arduino-1.0.1).**
-
+3. **Copy the whole 'gizduino-' folder found inside the Windows version of the Arduino package (arduino-1.0.1).**
 
  - This folder can be found in 'arduino-1.0.1/hardware'.
+ 
+ 
 
-4. ** Look for Arduino.app in your system (usually on the desktop or in your Applications folder). Right-click on it and select 'Show Package Contents'. This enables you to explore the IDE directories. **
-
+4. **Look for Arduino.app in your system (usually on the desktop or in your Applications folder). Right-click on it and select 'Show Package Contents'. This enables you to explore the IDE directories.**
 
  - Paste the 'gizduino-' folder you copied in 'Contents/Resources/Java/hardware/'. To check if you are in the right directory, the folders 'arduino' and 'tools' should be present.
 
-5.  ** Close the Arduino application if it is currently open. After pasting the folder, re-open the application, plug in your Gizduino board via USB, then proceed to Tools > Boards to check. Gizduino board versions should be present and selectable. **
-
-6. ** To finalize the IDE set-up, choose 'dev/tty/usbserial' as your Serial Port. You are now ready to program your Gizduino. **
 
 
+5.  **Close the Arduino application if it is currently open. After pasting the folder, re-open the application, plug in your Gizduino board via USB, then proceed to Tools > Boards to check. Gizduino board versions should be present and selectable.**
 
-- NOTE: When a Network Preferences pop-up window shows up, do not panic. This a normal occurence when using the PL2303 driver. You can close the window or you can confirm (Add), any choice would do and will not affect the Arduino application.
+
+
+6. **To finalize the IDE set-up, choose 'dev/tty/usbserial' as your Serial Port. You are now ready to program your Gizduino.**
+
+
+
+- **NOTE:** When a Network Preferences pop-up window shows up, do not panic. This a normal occurence when using the PL2303 driver. You can close the window or you can confirm (Add), any choice would do and will not affect the Arduino application.
