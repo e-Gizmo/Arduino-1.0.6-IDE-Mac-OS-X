@@ -1,3 +1,5 @@
+# Modified 9/16/2014 for gizDuino Board list Arduino-1.0.6 rev2.0 by e-Gizmo Mechatronix Central (www.w-gizmo.com)
+
 ##############################################################
 
 gizduino1281.name=Gizduino X (ATmega1281)
