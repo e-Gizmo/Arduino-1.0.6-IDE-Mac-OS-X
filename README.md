@@ -51,3 +51,6 @@ Important notes:
 
 
 - **NOTE:** When a Network Preferences pop-up window shows up, do not panic. This a normal occurence when using the PL2303 driver. You can close the window or you can confirm (Add), any choice would do and will not affect the Arduino application.
+
+
+- For Technical Support, Kindly email us at <egizmo.technical@gmail.com>
