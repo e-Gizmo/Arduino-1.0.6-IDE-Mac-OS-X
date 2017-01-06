@@ -21,23 +21,27 @@ Important notes:
  -------
  ![how to download](http://i.makeagif.com/media/6-21-2016/_xYx6X.gif)
  
-3. **Copy the whole 'gizduino-' folder found inside the Windows version of the Arduino package (arduino-1.0.1).**
+ 3. **Launch the Arduino application by double-clicking the zip file. This will install the IDE on your system.**
+
+- You may skip this step if you already have the Arduino IDE installed in your system beforehand.
+ 
+4. **Copy the whole 'gizduino-' folder found inside the Windows version of the Arduino package (arduino-1.0.1).**
 
  - This folder can be found in 'arduino-1.0.1/hardware'.
  
  
 
-4. **Look for Arduino.app in your system (usually on the desktop or in your Applications folder). Right-click on it and select 'Show Package Contents'. This enables you to explore the IDE directories.**
+5. **Look for Arduino.app in your system (usually on the desktop or in your Applications folder). Right-click on it and select 'Show Package Contents'. This enables you to explore the IDE directories.**
 
  - Paste the 'gizduino-' folder you copied in 'Contents/Resources/Java/hardware/'. To check if you are in the right directory, the folders 'arduino' and 'tools' should be present.
 
 
 
-5.  **Close the Arduino application if it is currently open. After pasting the folder, re-open the application, plug in your Gizduino board via USB, then proceed to Tools > Boards to check. Gizduino board versions should be present and selectable.**
+6.  **Close the Arduino application if it is currently open. After pasting the folder, re-open the application, plug in your Gizduino board via USB, then proceed to Tools > Boards to check. Gizduino board versions should be present and selectable.**
 
 
 
-6. **To finalize the IDE set-up, choose 'dev/tty/usbserial' as your Serial Port. You are now ready to program your Gizduino.**
+7. **To finalize the IDE set-up, choose 'dev/tty/usbserial' as your Serial Port. You are now ready to program your Gizduino.**
 
 
 
