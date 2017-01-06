@@ -21,7 +21,10 @@ Important notes:
  -------
  ![how to download](http://i.makeagif.com/media/6-21-2016/_xYx6X.gif)
  
- 3. **Launch the Arduino application by double-clicking the zip file. This will install the IDE on your system.**
+ 
+ 
+ 
+3. **Launch the Arduino application by double-clicking the zip file. This will install the IDE on your system.**
 
 - You may skip this step if you already have the Arduino IDE installed in your system beforehand.
  
